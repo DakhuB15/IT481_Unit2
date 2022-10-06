@@ -1,4 +1,4 @@
-# IT481_Assignment2
+# IT481_Assignment3
 
 Java Application that connects to Microsoft SQL Server to grab query results and displays them in a GUI
 
